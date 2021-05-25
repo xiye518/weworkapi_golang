@@ -3,7 +3,7 @@ package main
 import (
 	"encoding/xml"
 	"fmt"
-	"github.com/sbzhu/weworkapi_golang/wxbizmsgcrypt"
+	"github.com/xiye518/weworkapi_golang/wxbizmsgcrypt"
 )
 
 type MsgContent struct {
